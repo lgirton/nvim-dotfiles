@@ -31,6 +31,7 @@ return require('packer').startup(function(use)
     'williamboman/mason-lspconfig.nvim',
     'neovim/nvim-lspconfig'
   }
+
   use 'bluz71/vim-moonfly-colors'
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
